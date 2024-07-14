@@ -1,7 +1,9 @@
 # Android Product Display Application
 
 This Android application fetches product data from the [Dummy JSON Products API](https://dummyjson.com/products) and displays the products in a user-friendly interface. The application is built using Kotlin and Jetpack Compose.
-![App Screenshot](Screenshot_20240714_193808.png)
+
+<img src="Screenshot_20240714_193808.png" alt="App Screenshot" width="500" />
+
 ## Features
 
 - Fetches product data from the API
