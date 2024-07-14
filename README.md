@@ -1,7 +1,7 @@
 # Android Product Display Application
 
 This Android application fetches product data from the [Dummy JSON Products API](https://dummyjson.com/products) and displays the products in a user-friendly interface. The application is built using Kotlin and Jetpack Compose.
-
+![App Screenshot](Screenshot_20240714_193808.png)
 ## Features
 
 - Fetches product data from the API
@@ -54,13 +54,13 @@ The project follows a clean architecture approach with the following structure:
 `viewmodel` - Contains ViewModel classes for managing UI-related data
 ### Built With
 
-[Kotlin](https://kotlinlang.org/) - Programming language
+- [Kotlin](https://kotlinlang.org/) - Programming language
 
-[Jetpack Compose](https://developer.android.com/jetpack/compose) - UI toolkit
+- [Jetpack Compose](https://developer.android.com/jetpack/compose) - UI toolkit
 
-[Retrofit](https://square.github.io/retrofit/) - Type-safe HTTP client for Android
+- [Retrofit](https://square.github.io/retrofit/) - Type-safe HTTP client for Android
 
-[Hilt](https://developer.android.com/training/dependency-injection/hilt-android) - Dependency injection library
+- [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) - Dependency injection library
 
 ### Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
